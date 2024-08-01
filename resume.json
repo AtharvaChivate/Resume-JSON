@@ -1,0 +1,100 @@
+{
+    "name": "Atharva Chivate",
+    "contact": {
+        "email": "chivateatharva@gmail.com",
+        "linkedin": "https://linkedin.com/in/atharva-chivate/",
+        "github": "https://github.com/AtharvaChivate"
+    },
+    "education": {
+        "institution": "Vishwakarma Institute of Technology",
+        "degree": "Bachelor of Technology in Computer Engineering",
+        "location": "Pune, Maharashtra",
+        "cgpa": 8.59,
+        "start_date": "Dec. 2021",
+        "end_date": "May 2025"
+    },
+    "technical_skills": {
+        "languages": ["C++", "Python", "SQL", "Java", "R"],
+        "databases": ["MySQL", "PostgreSQL", "DynamoDB"],
+        "tools": ["Power BI", "MS Excel", "Git", "GitHub"],
+        "cloud": ["AWS", "Docker", "Kubernetes"],
+        "libraries": ["Numpy", "Pandas", "Matplotlib"]
+    },
+    "projects": [
+        {
+            "name": "Serverless E-commerce Website using AWS",
+            "technologies": ["S3", "DynamoDB", "Stripe", "ECS", "API Gateway", "React JS"],
+            "description": [
+                "Built a ReactJS e-commerce site, integrated Stripe for payments, and utilized AWS services (DynamoDB, SES, S3) for data management.",
+                "Designed serverless architecture with API Gateway, Simple Queue Service, and CloudWatch for scaling ECS tasks.",
+                "Managed payment invoices with AWS services, including AWS Lambda, Simple Email Service, DynamoDB, and S3",
+                "Achieved an average URL request latency of 4.89ms, enhancing user experience and ensuring seamless performance in an e-commerce environment."
+            ]
+        },
+        {
+            "name": "Comparative Analysis of Multiple ML Models and Real-Time Translation",
+            "technologies": ["Python", "Keras", "TensorFlow"],
+            "description": [
+                "Created a custom dataset consisting of images of English alphabets, numbers, and commonly used signs using American Sign Language (ASL) for training and testing the models.",
+                "Developed machine learning models like Decision Tree, Support Vector Machine, with Convolutional Neural Networks achieving the highest accuracy of 96% in hand gesture recognition, benefiting individuals with hearing impairments.",
+                "Implemented a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks for real-time gesture recognition."
+            ]
+        },
+        {
+            "name": "Spam SMS Detection Using Natural Language Processing",
+            "technologies": ["Natural Language Toolkit", "Pandas", "Seaborn"],
+            "description": [
+                "Developed a robust Spam SMS Detection system achieving 97% accuracy and 96% precision using Natural Language Processing and Machine Learning techniques.",
+                "Utilized a variety of algorithms including Support Vector Machine, Random Forest, and Extra Trees Classifier, with Extra Trees Classifier demonstrating the best performance.",
+                "Applied ensemble learning techniques such as Gradient Boosting, AdaBoost, and XGBoost with consistent performance, enhancing accuracy and precision in spam detection."
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "title": "Smart Assistive Navigator for the Blind Using Image Processing",
+            "publisher": "IEEE",
+            "link": "https://ieeexplore.ieee.org/document/10169767"
+        },
+        {
+            "title": "Cervical Cancer Prediction Using Machine Learning",
+            "publisher": "Journal of Electrical Systems",
+            "link": "https://journal.esrgroups.org/jes/article/view/851"
+        },
+        {
+            "title": "Automated smart waste segregation system using IoT technology",
+            "publisher": "IOP",
+            "link": "https://iopscience.iop.org/article/10.1088/1742-6596/2601/1/012015"
+        }
+    ],
+    "extracurricular": [
+        {
+            "role": "Finance Secretary",
+            "organization": "VIT Pune Model United Nations",
+            "duration": "July 2023 – July 2024",
+            "achievements": "Led Finance and Sponsorship teams, increasing sponsorship income by 160% and managing finances for seamless event execution."
+        }
+    ],
+    "certifications": [
+        {
+            "name": "The Advanced SQL Course",
+            "provider": "Udemy"
+        },
+        {
+            "name": "Data Analysis with Python",
+            "provider": "Free Code Camp"
+        },
+        {
+            "name": "Cloud Digital Leader Track",
+            "provider": "Google Cloud"
+        },
+        {
+            "name": "Introduction to Data Engineering",
+            "provider": "IBM"
+        },
+        {
+            "name": "Google Cloud Computing Foundations",
+            "provider": "Google Cloud"
+        }
+    ]
+}
